@@ -17,3 +17,4 @@ dev.print(pdf, "scatterplot.pdf")
 z <- runif
 z <- rnorm(2, mean = 10, sd = 5)
 z <- b*x
+z <- z*z
